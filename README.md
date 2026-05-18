@@ -5,7 +5,7 @@
 I am a first-year Engineering student with a strong interest in Web Development. I am continuously working on improving my problem-solving skills and expanding my technical knowledge by building projects and learning new concepts.
 
 ## 🛠️ Technical Skills
-- **Programming Languages:** JavaScript  
+- **Programming Languages:** JavaScript, python , c
 - **Web Technologies:** HTML, CSS  
 - **Tools & Platforms:** Git, GitHub  
 - **Core Concepts:** DOM Manipulation, Responsive Design  
