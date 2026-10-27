@@ -1,4 +1,3 @@
-
 # Hey, I'm Ananya J 👋
 
 2nd Year Computer Science Student | Full-stack MERN developer, problem solver, and ML learner
@@ -35,20 +34,23 @@
 |---|---|
 | 🎓 Studying | 2nd year Computer Science |
 | 💻 Building | Full-stack web apps with the MERN stack |
-| 🧠 Learning | Machine learning and computer vision |
+| 🧠 Learning | Machine learning, computer vision, and DSA |
 | 🧩 Practicing | Data structures and algorithms |
+| 💼 Looking for | Internship opportunities |
 
 ---
 
 ## 🎯 What I'm Into
 
 - Building useful full-stack web applications
-- Writing clean, readable code and solving problems
+- Learning data structures and algorithms to write cleaner, more efficient solutions
 - REST APIs, databases, and backend architecture
 - Exploring ML with NumPy, Pandas, and OpenCV
 
 ---
 
-## 📫 Connect
+## 📫 Let's Connect
+
+I'm open to internship opportunities in full-stack development and software engineering. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-j-0605ba386/)
