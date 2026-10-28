@@ -110,12 +110,7 @@ A campus-focused community platform designed around student experiences, convers
 ## `04` / GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananya-web26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-web26&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ananya-web26&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
