@@ -1,56 +1,138 @@
-# Hey, I'm Ananya J 👋
+# `ananya.j()` 👾
 
-2nd Year Computer Science Student | Full-stack MERN developer, problem solver, and ML learner
+```text
+┌──────────────────────────────────────────────┐
+│  STATUS: BUILDING IN PUBLIC                  │
+│  ROLE: FULL-STACK DEVELOPER IN PROGRESS      │
+│  MODE: LEARN → BUILD → BREAK → REPEAT        │
+└──────────────────────────────────────────────┘
+```
 
----
+Hey, I'm Ananya — a CSE student who likes turning ideas into working products.
 
-## 🛠️ Tech Stack
+I build with the **MERN stack**, experiment with new technologies, and explore the world of data and machine learning. Currently focused on writing better code, building projects that solve actual problems, and getting a little better every day.
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Full-Stack (MERN)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Machine Learning & Data (Learning)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+```js
+const ananya = {
+  primaryFocus: "Full-Stack Development",
+  techStack: ["React", "Node.js", "Express", "MongoDB"],
+  languages: ["JavaScript", "Python", "C", "Java"],
+  exploring: ["TypeScript", "Machine Learning"],
+  mindset: "Build things. Understand how they work."
+};
+```
 
 ---
 
-## 📌 About Me
+## `01` / Tech Stack
 
-| | |
-|---|---|
-| 🎓 Studying | 2nd year Computer Science |
-| 💻 Building | Full-stack web apps with the MERN stack |
-| 🧠 Learning | Machine learning, computer vision, and DSA |
-| 🧩 Practicing | Data structures and algorithms |
-| 💼 Looking for | Internship opportunities |
+### Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb&theme=dark&perline=8" alt="HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express and MongoDB" />
+</p>
+
+### Data & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+### Programming & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,git,github,vscode&theme=dark&perline=5" alt="C, Java, Git, GitHub and VS Code" />
+</p>
+
+### Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Learning-blueviolet?style=for-the-badge" alt="Machine Learning in progress" />
+</p>
 
 ---
 
-## 🎯 What I'm Into
+## `02` / Featured Projects
 
-- Building useful full-stack web applications
-- Learning data structures and algorithms to write cleaner, more efficient solutions
-- REST APIs, databases, and backend architecture
-- Exploring ML with NumPy, Pandas, and OpenCV
+### 🎬 MERN Watchlist
+
+A movie watchlist app built to practice full-stack development and interactive UI features.
+
+- Add and remove movies from a personal watchlist.
+- Search and filter movies.
+- Mark favorites and manage ratings.
+- Practice React state management and CRUD operations.
+
+**Tech:** React · Node.js · Express · MongoDB
+
+[View Repository](https://github.com/ananya-web26/mern-watchlist)
+
+### 📝 MERN Notes App
+
+A notes application built to understand how frontend interactions connect with backend APIs and a database.
+
+- Create, read, update, and delete notes.
+- Search notes dynamically.
+- Toggle dark mode.
+- Practice API requests and state updates.
+
+**Tech:** React · Node.js · Express · MongoDB
+
+[View Repository](https://github.com/ananya-web26/mern-notes-app)
+
+### 🌐 Campus Unfiltered — In Progress
+
+A campus-focused community platform designed around student experiences, conversations, and college life.
+
+- Exploring a more engaging, community-driven interface.
+- Building the frontend with React and Tailwind CSS.
+- Developing the project step by step.
+
+**Tech:** React · Tailwind CSS · Full-stack development in progress
+
+[Explore My Repositories](https://github.com/ananya-web26?tab=repositories)
 
 ---
 
-## 📫 Let's Connect
+## `03` / What I'm Learning
 
-I'm open to internship opportunities in full-stack development and software engineering. Feel free to reach out!
+- Strengthening React and full-stack development fundamentals.
+- Learning TypeScript before moving into larger React projects.
+- Exploring NumPy, Pandas, and the foundations of machine learning.
+- Practicing problem-solving and core computer science concepts.
+- Learning by building projects instead of just watching tutorials.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-j-0605ba386/)
+---
+
+## `04` / GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananya-web26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-web26&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ananya-web26&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## `05` / Find Me Online
+
+<p align="left">
+  <a href="https://github.com/ananya-web26">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+```text
+$ echo "Still learning. Still building. Still curious."
+```
+
+*One commit at a time.* 🚀
